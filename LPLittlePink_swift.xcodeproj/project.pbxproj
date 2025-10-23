@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		68DA82052EAA5CF000697C10 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 68DA82042EAA5CF000697C10 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		68DA81C72EAA429B00697C10 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		68DA81A82EAA429900697C10 /* LPLittlePink_swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LPLittlePink_swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68DA81C62EAA429B00697C10 /* LPLittlePink_swiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LPLittlePink_swiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		68DA81D02EAA429B00697C10 /* LPLittlePink_swiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LPLittlePink_swiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		68DA82042EAA5CF000697C10 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -88,6 +93,7 @@
 		68DA819F2EAA429900697C10 = {
 			isa = PBXGroup;
 			children = (
+				68DA82042EAA5CF000697C10 /* .gitignore */,
 				68DA81AA2EAA429900697C10 /* LPLittlePink_swift */,
 				68DA81C92EAA429B00697C10 /* LPLittlePink_swiftTests */,
 				68DA81D32EAA429B00697C10 /* LPLittlePink_swiftUITests */,
@@ -224,6 +230,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68DA82052EAA5CF000697C10 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
